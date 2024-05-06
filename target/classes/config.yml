@@ -1,0 +1,12 @@
+cooldown: 60
+messages:
+  prefix: "&c&lMeltarion &f"
+  enable: "Монстры больше не агрессируют на вас"
+  disable: "Вы снова стали врагами для монстров"
+  reload: "Конфиг успешно перезагружен"
+  no-perm: "У вас нет прав"
+  cooldown: "Вы сможете использовать эту команду через %time% секунд"
+whitelist-worlds:
+  - world
+  - world_the_end
+  - world_nether

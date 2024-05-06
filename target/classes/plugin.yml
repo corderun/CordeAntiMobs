@@ -1,0 +1,7 @@
+name: CordeAntiMobs
+version: '1.2'
+main: org.corderun.cordeantimobs.CordeAntiMobs
+api-version: '1.20'
+commands:
+  cordeantimobs: {}
+  antimobs: {}
